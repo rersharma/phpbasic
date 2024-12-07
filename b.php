@@ -3,7 +3,7 @@
   if(!empty($_POST["n"]))
   {
       $n=$_POST["n"];
-      for($i=2;$i<$n;$i++)
+      for($i=2∑;$i<$n;$i++)
       {
           echo "<br>Your i value is $i";
       }
